@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Matisse.iml" filepath="$PROJECT_DIR$/.idea/modules/Matisse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matisse/Matisse.matisse.iml" filepath="$PROJECT_DIR$/.idea/modules/matisse/Matisse.matisse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matisse/Matisse.matisse.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/matisse/Matisse.matisse.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matisse/Matisse.matisse.main.iml" filepath="$PROJECT_DIR$/.idea/modules/matisse/Matisse.matisse.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matisse/Matisse.matisse.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/matisse/Matisse.matisse.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Matisse.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Matisse.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Matisse.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Matisse.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Matisse.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Matisse.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Matisse.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Matisse.sample.unitTest.iml" />
+    </modules>
+  </component>
+</project>
