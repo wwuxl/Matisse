@@ -1,4 +1,4 @@
-由于原作者更新，对https://github.com/zhihu/Matisse 项目切换顶部选项显示空白问题进行修复
+由于原作者停止更新，对https://github.com/zhihu/Matisse 项目切换顶部选项显示空白问题进行修复
 
 
 Gradle:
