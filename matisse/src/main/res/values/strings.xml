@@ -17,10 +17,6 @@
 <resources
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation">
-    <plurals name="error_over_count">
-        <item quantity="one">You can only select up to %1$d media files</item>
-        <item quantity="other">You can only select up to %1$d media files</item>
-    </plurals>
     <string name="album_name_all">All Media</string>
     <string name="button_preview">Preview</string>
     <string name="button_apply_default">Apply</string>
@@ -41,4 +37,11 @@
     <string name="button_original">Original</string>
     <string name="button_sure_default">Sure</string>
     <string name="button_sure">Sure(%1$d)</string>
+
+    <plurals name="error_over_count">
+        <item quantity="one">You can only select up to %1$d media files</item>
+        <item quantity="few">You can only select up to %1$d media files</item>
+        <item quantity="many">You can only select up to %1$d media files</item>
+        <item quantity="other">You can only select up to %1$d media files</item>
+    </plurals>
 </resources>
