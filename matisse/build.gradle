@@ -35,8 +35,8 @@ android {
         targetSdkVersion 32
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_11
-        targetCompatibility JavaVersion.VERSION_11
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
     }
     lintOptions {
         abortOnError false
@@ -61,7 +61,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.wwuxl'
                 artifactId = 'matisse'
-                version = '1.0.1-beta01'
+                version = '1.0.1'
             }
         }
     }
