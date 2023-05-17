@@ -1,7 +1,6 @@
 # Project exclude paths
 /.gradle/
 /.idea/
-
-/.idea/
 /matisse/build/
 /sample/build/
+

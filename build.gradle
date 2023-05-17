@@ -29,7 +29,7 @@ buildscript {
 
     }
     dependencies {
-		classpath 'com.android.tools.build:gradle:7.0.4'
+		classpath 'com.android.tools.build:gradle:7.0.2'
         //classpath 'com.android.tools.build:gradle:3.5.1'
         //classpath 'com.novoda:bintray-release:0.9.1'
         //classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
@@ -40,6 +40,14 @@ allprojects {
     repositories {
         jcenter()
         google()
+        maven { url 'https://jitpack.io' }
+        maven { url 'https://jitpack.io' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        maven { url 'https://maven.aliyun.com/repository/central' }
+        maven { url 'https://maven.aliyun.com/repository/google' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
+        maven { url 'https://maven.fabric.io/public' }
     }
 }
 
