@@ -11,6 +11,6 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.wwuxl:Matisse:1.0.1-dev'
+    implementation 'com.github.wwuxl:Matisse:1.0.1-alpha'
 }
 ```
